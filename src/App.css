@@ -9,21 +9,22 @@
 
 button{
   position: relative;
-  padding: 10px 15px;
+  padding: 10px 40px;
   margin: 0px 5px;
   border: none;
   outline: none;
-  background: darkcyan;
-  color: azure;
+  background: #FEE1C7;
+  color: black;
   font-size: 1.4rem;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   cursor: pointer;
   transition: .5s;
+  border-radius: 10px;
+}
+button:hover{
+  color: #F65170;
 }
 
-button:hover{
-  color: cadetblue;
-}
 h3{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 3.45rem;
@@ -38,6 +39,13 @@ h1{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 4rem;
 }
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #FA7E61;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

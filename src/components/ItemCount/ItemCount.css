@@ -1,0 +1,14 @@
+.Controls{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.Controls h4{
+    margin: 10px;
+}
+
+button.Button{
+    padding: 5px 40px;
+    border-radius: 10px;
+}

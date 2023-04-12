@@ -1,4 +1,3 @@
-import styles from "./NavBar/NavBar.module.css";
 import CartWidget from "./CartWidget/CartWidget";
 
 
