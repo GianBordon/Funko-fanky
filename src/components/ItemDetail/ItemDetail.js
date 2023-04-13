@@ -1,7 +1,7 @@
 import './ItemDetail.css'
 import ItemCount from '../ItemCount/ItemCount'
 
-const ItemDetail = ({id, name, img, price, stock}) => {
+const ItemDetail = ({id, name, img, price, description, category}) => {
 
     return(
         <article className='CardItem'>
@@ -15,14 +15,17 @@ const ItemDetail = ({id, name, img, price, stock}) => {
             </picture>
             <section>
                 <p className='Info'>
-                    Precio: ${price}
+                    Descripcion: {description}
                 </p>
                 <p className='Info'>
-                    Stock disponible: {stock}
+                    Seccion: {category}
+                </p>
+                <p className='Info'>
+                    Precio: ${price}
                 </p>
             </section>
             <footer className='ItemFooter'>
-                <ItemCount initial={1} stock={stock} onAdd={quantity}/>
+            <ItemCount initial={1} stock={10} onAdd={(quantity) => console.log('Cantidad de productos agregados :', quantity)}/>
             </footer>
         </article>
     )

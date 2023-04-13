@@ -92,8 +92,8 @@ const productos = [
     {id:'91',name:'Daisy Duck',price:4600,category:'Disney',img:'./Assets/Disney/Img/Pop! Daisy Duck, , hi-res.png',stock:'20',description:' Descripcion de Daisy Duck'},
     {id:'92',name:'Dale',price:4600,category:'Disney',img:'./Assets/Disney/Img/Pop! Dale, , hi-res.png',stock:'20',description:' Descripcion de Dale'},
     {id:'93',name:'Donald Duck',price:4600,category:'Disney',img:'./Assets/Disney/Img/Pop! Donald Duck, , hi-res.png',stock:'20',description:' Descripcion de Donald Duck'},
-    {id:'94',name:'Eeyore (Flocked)',price:6220,category:'Disney',img:'./Assets/Img/Disney/Pop! Eeyore (Flocked), , hi-res.png',stock:'20',description:' Descripcion de Eeyore (Flocked)'},
-    {id:'95',name:'Elsa (Diamond)',price:6220,category:'Disney',img:'./Assets/Img/Disney/Pop! Elsa (Diamond), , hi-res.png',stock:'20',description:' Descripcion de Elsa (Diamond)'},
+    {id:'94',name:'Eeyore (Flocked)',price:6220,category:'Disney',img:'./Assets/Disney/Img/Pop! Eeyore (Flocked), , hi-res.png',stock:'20',description:' Descripcion de Eeyore (Flocked)'},
+    {id:'95',name:'Elsa (Diamond)',price:6220,category:'Disney',img:'./Assets/Disney/Img/Pop! Elsa (Diamond), , hi-res.png',stock:'20',description:' Descripcion de Elsa (Diamond)'},
     {id:'96',name:'Elsa',price:4600,category:'Disney',img:'./Assets/Disney/Img/Pop! Elsa, , hi-res.png',stock:'20',description:' Descripcion de Elsa'},
     {id:'97',name:'Guy',price:4600,category:'Disney',img:'./Assets/Disney/Img/Pop! Guy, , hi-res.png',stock:'20',description:' Descripcion de Guy'},
     {id:'98',name:'Hades with Chess Board',price:6220,category:'Disney',img:'./Assets/Disney/Img/Pop! Hades with Chess Board, , hi-res.png',stock:'20',description:' Descripcion de Hades with Chess Board'},
@@ -128,7 +128,7 @@ const productos = [
     {id:'137',name:'Batman (Hush)',price:6220,category:'DC',img:'./Assets/DC/Img/Pop! Batman (Hush), , hi-res.png',stock:'20',description:' Descripcion de Batman (Hush)'},
     {id:'138',name:'Batman Unmasked',price:4600,category:'DC',img:'./Assets/DC/Img/Pop! Batman Unmasked, , hi-res.png',stock:'20',description:' Descripcion de Batman Unmasked'},
     {id:'139',name:'Batman in Armor Suit',price:4600,category:'DC',img:'./Assets/DC/Img/Pop! Batman in Armor Suit, , hi-res.png',stock:'20',description:' Descripcion de Batman in Armor Suit'},
-    {id:'140',name:'Black Adam (Glow)',price:6220,category:'DC',img:'./Assets/DCImg//Pop! Black Adam (Glow), , hi-res.png',stock:'20',description:' Descripcion de Black Adam (Glow)'},
+    {id:'140',name:'Black Adam (Glow)',price:6220,category:'DC',img:'./Assets/DC/Img/Pop! Black Adam (Glow), , hi-res.png',stock:'20',description:' Descripcion de Black Adam (Glow)'},
     {id:'141',name:'Black Adam',price:4600,category:'DC',img:'./Assets/DC/Img/Pop! Black Adam, , hi-res.png',stock:'20',description:' Descripcion de Black Adam'},
     {id:'142', name:'Black Hand', price:4600, category:'DC', img:'./Assets/DC/Img/Pop! Black Hand, , hi-res.png', stock:'20', description:' Descripcion de Black Hand'},
     {id:'143', name:'Cyclone', price:4600, category:'DC', img:'./Assets/DC/Img/Pop! Cyclone, , hi-res.png', stock:'20', description:' Descripcion de Cyclone'},
@@ -173,6 +173,14 @@ export const getProductosById = (productosId) => {
     return new Promise ((resolve) => {
         setTimeout(() => {
             resolve(productos.find(prod => prod.id === productosId))
+        }, 500)
+    })
+}
+
+export const getProductosByCategory = (productosCategory) => {
+    return new Promise ((resolve) => {
+        setTimeout(() => {
+            resolve(productos.find(prod => prod.category === productosCategory))
         }, 500)
     })
 }
