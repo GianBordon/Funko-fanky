@@ -6,11 +6,21 @@
 .CardItem{
     display: inline-block;
     background-color: #FB977B;
-    margin: 10px;
     width: 400px;
-    height: 500px;
+    height: 460px;
+    margin: 10px;
 }
 .ItemImg{
     width: 50%;
     height: auto;
+}
+header{
+    padding: 5px;
+}
+.ItemHeader{
+    font-size: 1.2rem;
+}
+
+.ItemFooter{
+    padding-top: 15px;
 }
