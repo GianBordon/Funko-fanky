@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.CardItem{
+    display: inline-block;
+    background-color: #FB977B;
+    margin: 10px;
+    width: 400px;
+    height: 400px;
+}
+.ItemImg{
+    width: 35%;
+    height: auto;
+}

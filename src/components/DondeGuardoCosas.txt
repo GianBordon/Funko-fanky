@@ -1,0 +1,160 @@
+{id:'1',name:'Arc Umbra Trooper',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Arc Umbra Trooper, , hi-res.png',stock:'20',description:' Descripcion de Arc Umbra Trooper '}
+{id:'2',name:'Artist Series Darth Vadere ',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Artist Series Darth Vader with Pop! Protector, , hi-res - copia.png',stock:'20',description:' Descripcion de Artist Series Darth Vadere '}
+{id:'3',name:'B2EMO',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! B2EMO, , hi-res.png',stock:'20',description:' Descripcion de B2EMO '}
+{id:'4',name:'BB-8',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! BB-8, , hi-res',stock:'20',description:' Descripcion de BB-8 '}
+{id:'5',name:'BB-8 (Raibow)',price:7000,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! BB-8 (Rainbow), , hi-res.png',stock:'20',description:' Descripcion de BB-8 (Raibow) '}
+{id:'6',name:'Bo-katan Kryze (San Valentin)',price:7000,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Bo-Katan Kryze, , hi-res.png',stock:'20',description:' Descripcion de Bo-katan Kryze (San Valentin) '}
+{id:'7',name:'Ashoka',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/StarWars_Ashoka_POP_Hover.png',stock:'20',description:' Descripcion de Ashoka '}
+{id:'8',name:'Bo-katan Kryze ',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Bo-Katan Kryze, , hi-res (2).png',stock:'20',description:' Descripcion de Bo-katan Kryze '}
+{id:'9',name:'Bo-katan Kryze (Sin Casco)',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Bo-Katan Kryze, , hi-res (4).png',stock:'20',description:' Descripcion de Bo-katan Kryze (Sin Casco) '}
+{id:'10',name:'Boba Fett in Armor',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Boba Fett in Armor, , hi-res.png',stock:'20',description:' Descripcion de Boba Fett in Armor '}
+{id:'11',name:'Chewbacca (Flocked)',price:7000,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Chewbacca (Flocked), , hi-res.png',stock:'20',description:' Descripcion de Chewbacca (Flocked) '}
+{id:'12',name:'Chewbaca (Episode IV "A New Hope")',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Chewbacca - Star Wars_ Episode IV A New Hope, , hi-res.png',stock:'20',description:' Descripcion de Chewbaca (Episode IV "A New Hope") '}
+{id:'13',name:'Chewbaca',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Chewbacca, , hi-res - copia.png',stock:'20',description:' Descripcion de Chewbaca '}
+{id:'14',name:'Cobb Vanth',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Cobb Vanth, , hi-res (2) - copia.png',stock:'20',description:' Descripcion de Cobb Vanth '}
+{id:'15',name:'Cobb Vanth (Sin casco)',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Cobb Vanth, , hi-res.png',stock:'20',description:' Descripcion de Cobb Vanth (Sin casco) '}
+{id:'16',name:'Darth Vader (Episode IV "A New Hope")',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Darth Vader - Star Wars_ Episode IV A New Hope, , hi-res.png',stock:'20',description:' Descripcion de Darth Vader (Episode IV "A New Hope") '}
+{id:'17',name:'Deluxe Red Saber Series Volume 1_ Darth Tyranus (Glow)',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Deluxe Red Saber Series Volume 1_ Darth Tyranus (Glow), , hi-res.png',stock:'20',description:' Descripcion de Deluxe Red Saber Series Volume 1_ Darth Tyranus (Glow) '}
+{id:'18',name:'Deluxe Red Saber Series Volume 1_ Darth Vader (Glow)',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Deluxe Red Saber Series Volume 1_ Darth Vader (Glow), , hi-res.png',stock:'20',description:' Descripcion de Deluxe Red Saber Series Volume 1_ Darth Vader (Glow) '}
+{id:'19',name:'Deluxe Red Saber Series Volume 1_ Savage Opress',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Deluxe Red Saber Series Volume 1_ Savage Opress, , hi-res.png',stock:'20',description:' Descripcion de Deluxe Red Saber Series Volume 1_ Savage Opress '}
+{id:'20',name:'Emperor Palpatine',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Emperor Palpatine, , hi-res.png',stock:'20',description:' Descripcion de Emperor Palpatine '}
+{id:'21',name:'Imperial Rocket Trooper',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Imperial Rocket Trooper, , hi-res.png',stock:'20',description:' Descripcion de Imperial Rocket Trooper '}
+{id:'22',name: 'Krrsantan (Flocked)',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Krrsantan (Flocked), , hi-res.png',stock:'20',description:' Descripcion de Krrsantan (Flocked) '}
+{id:'23',name:'Luke Skywalker (Episode IV “A New Hope”)',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Luke Skywalker - Star Wars_ Episode IV A New Hope, , hi-res.png',stock:'20',description:' Descripcion de Luke Skywalker (Episode IV “A New Hope”) '}
+{id:'24',name:'Merrin (NightSister)',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Merrin (NightSister), , hi-res.png',stock:'20',description:' Descripcion de Merrin (NightSister) '}
+{id:'25',name:'Obi-Wan Kenobi in Armor',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Obi-Wan Kenobi in Armor, , hi-res.png',stock:'20',description:' Descripcion de Obi-Wan Kenobi in Armor '}
+{id:'26',name:'Power of the Galaxy - Padmé Amidala',price:7000,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Power of the Galaxy_ Padmé Amidala, , hi-res.png',stock:'20',description:' Descripcion de Power of the Galaxy - Padmé Amidala '}
+{id:'27',name:'Power of the Galaxy - Rey',price:7000,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Power of the Galaxy_ Rey, , hi-res.png',stock:'20',description:' Descripcion de Power of the Galaxy - Rey '}
+{id:'28',name:'Princess Leia (Yavin)',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Princess Leia (Yavin), , hi-res.png',stock:'20',description:' Descripcion de Princess Leia (Yavin) '}
+{id:'29',name:'Princess Leia (Episode IV “A New Hope”)',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Princess Leia - Star Wars_ Episode IV A New Hope, , hi-res.png',stock:'20',description:' Descripcion de Princess Leia (Episode IV “A New Hope”) '}
+{id:'30',name:'Proxy (Glow)',price:7000,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Proxy (Glow), , hi-res.png',stock:'20',description:' Descripcion de Proxy (Glow) '}
+{id:'31',name:'R2-D2',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! R2-D2, , hi-res.png',stock:'20',description:' Descripcion de R2-D2 '}
+{id:'32',name:'Reva (Third Sister) with Light Saber',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Reva (Third Sister) with Light Saber, , hi-res.png',stock:'20',description:' Descripcion de Reva (Third Sister) with Light Saber '}
+{id:'33',name:'Rey with Yellow Lightsaber',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Rey with Yellow Lightsaber, , hi-res.png',stock:'20',description:' Descripcion de Rey with Yellow Lightsaber '}
+{id:'34',name:'Rides Deluxe The Mandalorian on Speeder (with Grogu)',price:11600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Rides Deluxe The Mandalorian on Speeder (with Grogu), , hi-res.png',stock:'20',description:' Descripcion de Rides Deluxe The Mandalorian on Speeder (with Grogu) '}
+{id:'35',name:'Snowman C-3PO',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Snowman C-3PO, , hi-res.png',stock:'20',description:' Descripcion de Snowman C-3PO '}
+{id:'36',name:'Snowman Darth Vader',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Snowman Darth Vader, , hi-res.png',stock:'20',description:' Descripcion de Snowman Darth Vader '}
+{id:'37',name:'Snowman Stormtrooper',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Snowman Stormtrooper, , hi-res.png',stock:'20',description:' Descripcion de Snowman Stormtrooper '}
+{id:'38',name:'Star Wars_ Obi-Wan Kenobi 5-Pack',price:16400,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Star Wars_ Obi-Wan Kenobi 5-Pack, , hi-res.png',stock:'20',description:' Descripcion de Star Wars_ Obi-Wan Kenobi 5-Pack '}
+{id:'39',name:'Stormtrooper - (Episode IV “A New Hope”)',price:6220,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Stormtrooper - Star Wars_ Episode IV A New Hope, , hi-res.png',stock:'20',description:' Descripcion de Stormtrooper - (Episode IV “A New Hope”) '}
+{id:'40',name:'Vel Sartha',price:4600,category:'Star Wars',img:'./Assets/StarWars/Img/Pop! Vel Sartha, , hi-res.png',stock:'20',description:' Descripcion de Vel Sartha '}
+{id:'41',name:'Civil War_ Black Panther',price:6220,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Civil War_ Black Panther, , hi-res.png',stock:'20',description:' Descripcion de Civil War_ Black Panther '}
+{id:'42',name:'Civil War_ Hawkeye',price:6220,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Civil War_ Hawkeye, , hi-res.png',stock:'20',description:' Descripcion de Civil War_ Hawkeye '}
+{id:'43',name:'Cosmo',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Cosmo, , hi-res.png',stock:'20',description:' Descripcion de Cosmo '}
+{id:'44',name:'Deluxe Spider-Man',price:6220,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Deluxe Spider-Man, , hi-res.png',stock:'20',description:' Descripcion de Deluxe Spider-Man '}
+{id:'45',name:'Doc Ock',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Doc Ock, , hi-res.png',stock:'20',description:' Descripcion de Doc Ock '}
+{id:'46',name:'Doctor Strange with Spell',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Doctor Strange with Spell, , hi-res.png',stock:'20',description:' Descripcion de Doctor Strange with Spell '}
+{id:'47',name:'Drax',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Drax, , hi-res.png',stock:'20',description:' Descripcion de Drax '}
+{id:'48',name:'Electro',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Electro, , hi-res.png',stock:'20',description:' Descripcion de Electro '}
+{id:'49',name:'Friendly Neighborhood Spider-Man (Metallic)',price:6220,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Friendly Neighborhood Spider-Man (Metallic), , hi-res.png',stock:'20',description:' Descripcion de Friendly Neighborhood Spider-Man (Metallic) '}
+{id:'50',name:'Green Goblin in Suit,',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Green Goblin in Suit, , hi-res.png',stock:'20',description:' Descripcion de Green Goblin in Suit '}
+{id:'51',name:'Groot with Wings',price:6220,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Groot with Wings, , hi-res.png',stock:'20',description:' Descripcion de Groot with Wings '}
+{id:'52',name:'Groot',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Groot, , hi-res.png',stock:'20',description:' Descripcion de Groot '}
+{id:'53',name:'Iron Spider with Gauntlet (Glow)',price:6220,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Iron Spider with Gauntlet (Glow), , hi-res.png',stock:'20',description:' Descripcion de Iron Spider with Gauntlet (Glow) '}
+{id:'54',name:'She-Hulk',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Jumbo She-Hulk, , hi-res.png',stock:'20',description:' Descripcion de She-Hulk '}
+{id:'55',name:'Kang',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Kang, , hi-res.png',stock:'20',description:' Descripcion de Kang '}
+{id:'56',name:'Kate Bishop',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Kate Bishop, , hi-res.png',stock:'20',description:' Descripcion de Kate Bishop '}
+{id:'57',name:'Khonshu',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Khonshu, , hi-res.png',stock:'20',description:' Descripcion de Khonshu '}
+{id:'58',name:'Kraglin',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Kraglin, , hi-res.png',stock:'20',description:' Descripcion de Kraglin '}
+{id:'59',name:'MJ with Spell Box',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! MJ with Spell Box, , hi-res.png',stock:'20',description:' Descripcion de MJ with Spell Box '}
+{id:'60',name:'Mantis',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Mantis, , hi-res.png',stock:'20',description:' Descripcion de Mantis '}
+{id:'61',name:'Matt Murdock',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Matt Murdock, , hi-res.png',stock:'20',description:' Descripcion de Matt Murdock '}
+{id:'62',name:'Mighty Thor (Metallic)',price:7000,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Mighty Thor (Metallic), , hi-res.png',stock:'20',description:' Descripcion de Mighty Thor (Metallic) '}
+{id:'63',name:'Mysterio (Glow)',price:6220,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Mysterio (Glow), , hi-res.png',stock:'20',description:' Descripcion de Mysterio (Glow)'}
+{id:'64',name:'Nebula',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Nebula, , hi-res.png',stock:'20',description:' Descripcion de Nebula '}
+{id:'65',name:'Ned in Cloak',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Ned in Cloak, , hi-res.png',stock:'20',description:' Descripcion de Ned in Cloak '}
+{id:'66',name:'Nick Fury',price:4000,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Nick Fury, , hi-res.png',stock:'20',description:' Descripcion de Nick Fury '}
+{id:'67',name:'President Loki with Alligator',price:7000,category:'Marvel',img:'./Assets/Marvel/Img/Pop! President Loki with Alligator, , hi-res.png',stock:'20',description:' Descripcion de President Loki with Alligator '}
+{id:'68',name:'Ramonda',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Ramonda, , hi-res.png',stock:'20',description:' Descripcion de Ramonda '}
+{id:'69',name:'Ride Namor with Orca',price:11600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Ride Namor with Orca, , hi-res.png',stock:'20',description:' Descripcion de Ride Namor with Orca''}
+{id:'70',name:'Rocket',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Rocket, , hi-res.png',stock:'20',description:' Descripcion de '}
+{id:'71',name:'Santa Spider-Man',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Santa Spider-Man, , hi-res.png',stock:'20',description:' Descripcion de Rocket '}
+{id:'72',name:'Shuri with Sunglasses (Diamond)',price:7000,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Shuri with Sunglasses (Diamond), , hi-res.png',stock:'20',description:' Descripcion de Shuri with Sunglasses (Diamond)'}
+{id:'73',name:'Spider-Man_ No Way Home 3-Pack',price:11600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Spider-Man_ No Way Home 3-Pack, , hi-res.png',stock:'20',description:' Descripcion de Spider-Man_ No Way Home 3-Pack '}
+{id:'74',name:'Star-Lord',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Star-Lord, , hi-res.png',stock:'20',description:' Descripcion de Star-Lord '}
+{id:'75',name:'Taweret',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Taweret, , hi-res.png',stock:'20',description:' Descripcion de Taweret '}
+{id:'76',name:'Thor with Pin',price:7000,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Thor with Pin, , hi-res.png',stock:'20',description:' Descripcion de Thor with Pin '}
+{id:'77',name:'Unmasked Spider-Man',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Unmasked Spider-Man, , hi-res.png',stock:'20',description:' Descripcion de Unmasked Spider-Man '}
+{id:'78',name:'Wanda Maximoff (Glow)',price:6220,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Wanda Maximoff (Glow), , hi-res.png',stock:'20',description:' Descripcion de Wanda Maximoff (Glow)'}
+{id:'79',name:'Wong',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Wong, , hi-res.png',stock:'20',description:' Descripcion de Wong '}
+{id:'80',name:'Zeus',price:4600,category:'Marvel',img:'./Assets/Marvel/Img/Pop! Zeus, , hi-res.png',stock:'20',description:'Descripcion de Zeus '}
+{id:'81',name:'Maleficent with Diablo',price:4600,category:'Disney',img:'./Assets/Disney/Pop Deluxe Villains Assemble_ Maleficent with Diablo, , hi-res.png',stock:'20',description:' Descripcion de Maleficent with Diablo'}
+{id:'82',name:'Aloha Mickey Mouse',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Aloha Mickey Mouse, , hi-res.png',stock:'20',description:' Descripcion de Aloha Mickey Mouse'}
+{id:'83',name:'Battle Neytiri',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Battle Neytiri, , hi-res.png',stock:'20',description:' Descripcion de Battle Neytiri'}
+{id:'84',name:'Belle (Gold) with Pin',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Belle (Gold) with Pin, , hi-res.png',stock:'20',description:' Descripcion de Belle (Gold) with Pin'}
+{id:'85',name:'Bruno Madrigal (Glow)',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Bruno Madrigal (Glow), , hi-res.png',stock:'20',description:' Descripcion de Bruno Madrigal (Glow)'}
+{id:'86',name:'Buzz Lightyear (XL-15) with Sox',price:11600,category:'Disney',img:'./Assets/Disney/Pop! Buzz Lightyear (XL-15) with Sox, , hi-res.png',stock:'20',description:' Descripcion de Buzz Lightyear (XL-15) with Sox'}
+{id:'87',name:'Chip',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Chip, , hi-res.png',stock:'20',description:' Descripcion de Chip'}
+{id:'88',name:'Cinderella with Trays',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Cinderella with Trays, , hi-res.png',stock:'20',description:' Descripcion de Cinderella with Trays'}
+{id:'89',name:'Cinderella',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Cinderella, , hi-res.png',stock:'20',description:' Descripcion de Cinderella'}
+{id:'90',name:'Clarabelle Cow',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Clarabelle Cow, , hi-res.png',stock:'20',description:' Descripcion de Clarabelle Cow'}
+{id:'91',name:'Daisy Duck',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Daisy Duck, , hi-res.png',stock:'20',description:' Descripcion de Daisy Duck'}
+{id:'92',name:'Dale',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Dale, , hi-res.png',stock:'20',description:' Descripcion de Dale'}
+{id:'93',name:'Donald Duck',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Donald Duck, , hi-res.png',stock:'20',description:' Descripcion de Donald Duck'}
+{id:'94',name:'Eeyore (Flocked)',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Eeyore (Flocked), , hi-res.png',stock:'20',description:' Descripcion de Eeyore (Flocked)'}
+{id:'95',name:'Elsa (Diamond)',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Elsa (Diamond), , hi-res.png',stock:'20',description:' Descripcion de Elsa (Diamond)'}
+{id:'96',name:'Elsa',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Elsa, , hi-res.png',stock:'20',description:' Descripcion de Elsa'}
+{id:'97',name:'Guy',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Guy, , hi-res.png',stock:'20',description:' Descripcion de Guy'}
+{id:'98',name:'Hades with Chess Board',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Hades with Chess Board, , hi-res.png',stock:'20',description:' Descripcion de Hades with Chess Board'}
+{id:'99',name:'Hercules with Action Figure',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Hercules with Action Figure, , hi-res.png',stock:'20',description:' Descripcion de Hercules with Action Figure'}
+{id:'100',name:'Jack Skellington with Flower',price:7000,category:'Disney',img:'./Assets/Disney/Pop! Jack Skellington with Flower, , hi-res.png',stock:'20',description:' Descripcion de Jack Skellington with Flower'}
+{id:'101',name:'Jake Sully',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Jake Sully, , hi-res.png',stock:'20',description:' Descripcion de Jake Sully'}
+{id:'102',name:'Merida (Gold) with Pin',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Merida (Gold) with Pin, , hi-res.png',stock:'20',description:' Descripcion de Merida (Gold) with Pin'}
+{id:'103',name:'Mickey Mouse Split Color',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Mickey Mouse Split Color, , hi-res.png',stock:'20',description:' Descripcion de Mickey Mouse Split Color'}
+{id:'104',name:'Miguel with Guitar (Glow)',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Miguel with Guitar (Glow), , hi-res.png',stock:'20',description:' Descripcion de Miguel with Guita}
+{id:'105',name:'Minnie',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Minnie, , hi-res.png',stock:'20',description:' Descripcion de Minnie'}
+{id:'106',name:'Mirabel (Glow)',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Mirabel (Glow), , hi-res.png',stock:'20',description:' Descripcion de Mirabel (Glow)'}
+{id:'107',name:'Moment Hakuna Matata',price:11600,category:'Disney',img:'./Assets/Disney/Pop! Moment Hakuna Matata, , hi-res.png',stock:'20',description:' Descripcion de Moment Hakuna Matata'}
+{id:'108',name:'Mulan (Gold) with Pin',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Mulan (Gold) with Pin, , hi-res.png',stock:'20',description:' Descripcion de Mulan (Gold) with Pin'}
+{id:'109',name:'Pinocchio (Wood)',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Pinocchio (Wood), , hi-res.png',stock:'20',description:' Descripcion de Pinocchio (Wood)'}
+{id:'110',name:'Pluto',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Pluto, , hi-res.png',stock:'20',description:' Descripcion de Pluto'}
+{id:'111',name:'Powerline',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Powerline, , hi-res.png',stock:'20',description:' Descripcion de Powerline'}
+{id:'112',name:'Roger Rabbit',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Roger Rabbit, , hi-res.png',stock:'20',description:' Descripcion de Roger Rabbit'}
+{id:'113',name:'Sebastian',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Sebastian, , hi-res.png',stock:'20',description:' Descripcion de Sebastian'}
+{id:'114',name:'Sox',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Sox, , hi-res.png',stock:'20',description:' Descripcion de Sox'}
+{id:'115',name:'Thumper',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Thumper, , hi-res.png',stock:'20',description:' Descripcion de Thumper'}
+{id:'116',name:'Tiana',price:4600,category:'Disney',img:'./Assets/Disney/Pop! Tiana, , hi-res.png',stock:'20',description:' Descripcion de Tiana'}
+{id:'117',name:'Town Smee with Skull Rock',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Town Smee with Skull Rock, , hi-res.png',stock:'20',description:' Descripcion de Town Smee with Skull Rock'}
+{id:'118',name:'Trains Captain Hook',price:7000,category:'Disney',img:'./Assets/Disney/Pop! Trains Captain Hook, , hi-res.png',stock:'20',description:' Descripcion de Trains Captain Hook'}
+{id:'119',name:'Walt Disney with Drawing',price:6220,category:'Disney',img:'./Assets/Disney/Pop! Walt Disney with Drawing, , hi-res.png',stock:'20',description:' Descripcion de Walt Disney with Drawing'}
+{id:'120',name:'Winnie the Pooh Cherry Blossom (Flocked)',price:7000,category:'Disney',img:'./Assets/Disney/Pop! Winnie the Pooh Cherry Blossom (Flocked), , hi-res.png',stock:'20',description:' Descripcion de Winnie the Pooh Cherry Blossom (Flocked)'}
+{id:'131',name:'Anthea',price:4600,category:'DC',img:'./Assets/DC/Pop! Anthea, , hi-res.png',stock:'20',description:' Descripcion de Anthea'}
+{id:'132',name:'Aquaman',price:4600,category:'DC',img:'./Assets/DC/Pop! Aquaman, , hi-res.png',stock:'20',description:' Descripcion de Aquaman'}
+{id:'133',name:'Atom Smasher',price:4600,category:'DC',img:'./Assets/DC/Pop! Atom Smasher, , hi-res.png',stock:'20',description:' Descripcion de Atom Smasher'}
+{id:'134',name:'Barry Allen in Monkey Robe',price:4600,category:'DC',img:'./Assets/DC/Pop! Barry Allen in Monkey Robe, , hi-res.png',stock:'20',description:' Descripcion de Barry Allen in Monkey Robe'}
+{id:'135',name:'Barry Allen',price:4600,category:'DC',img:'./Assets/DC/Pop! Barry Allen, , hi-res.png',stock:'20',description:' Descripcion de Barry Allen'}
+{id:'136',name:'Batgirl',price:4600,category:'DC',img:'./Assets/DC/Pop! Batgirl, , hi-res.png',stock:'20',description:' Descripcion de Batgirl'}
+{id:'137',name:'Batman (Hush)',price:6220,category:'DC',img:'./Assets/DC/Pop! Batman (Hush), , hi-res.png',stock:'20',description:' Descripcion de Batman (Hush)'}
+{id:'138',name:'Batman Unmasked',price:4600,category:'DC',img:'./Assets/DC/Pop! Batman Unmasked, , hi-res.png',stock:'20',description:' Descripcion de Batman Unmasked'}
+{id:'139',name:'Batman in Armor Suit',price:4600,category:'DC',img:'./Assets/DC/Pop! Batman in Armor Suit, , hi-res.png',stock:'20',description:' Descripcion de Batman in Armor Suit'}
+{id:'140',name:'Black Adam (Glow)',price:6220,category:'DC',img:'./Assets/DC/Pop! Black Adam (Glow), , hi-res.png',stock:'20',description:' Descripcion de Black Adam (Glow)'}
+{id:'141',name:'Black Adam',price:4600,category:'DC',img:'./Assets/DC/Pop! Black Adam, , hi-res.png',stock:'20',description:' Descripcion de Black Adam'}
+{id:'142',name:'Black Hand',price:4600,category:'DC',img:'./Assets/DC/'Pop! Black Hand, , hi-res.png,stock:'20',description:' Descripcion de Black Hand'}
+{id:'143',name:'Cyclone',price:4600,category:'DC',img:'./Assets/DC/Pop! Cyclone, , hi-res.png',stock:'20',description:' Descripcion de Cyclone'}
+{id:'144',name:'Darla',price:4600,category:'DC',img:'./Assets/DC/Pop! Darla, , hi-res.png',stock:'20',description:' Descripcion de Darla'}
+{id:'145',name:'Freddy',price:4600,category:'DC',img:'./Assets/DC/Pop! Freddy, , hi-res.png',stock:'20',description:' Descripcion de Freddy'}
+{id:'146',name:'General Zod',price:7000,category:'DC',img:'./Assets/DC/Pop! General Zod, , hi-res.png',stock:'20',description:' Descripcion de General Zod'}
+{id:'147',name:'Harley Quinn with Belt',price:6220,category:'DC',img:'./Assets/DC/Pop! Harley Quinn with Belt, , hi-res.png',stock:'20',description:' Descripcion de Harley Quinn with Belt'}
+{id:'148',name:'Harley Quinn',price:4600,category:'DC',img:'./Assets/DC/Pop! Harley Quinn, , hi-res.png',stock:'20',description:' Descripcion de Harley Quinn'}
+{id:'149',name:'Hawkman',price:4600,category:'DC',img:'./Assets/DC/Pop! Hawkman, , hi-res.png',stock:'20',description:' Descripcion de Hawkman'}
+{id:'150',name:'Hespera',price:4600,category:'DC',img:'./Assets/DC/Pop! Hespera, , hi-res.png',stock:'20',description:' Descripcion de Hespera'}
+{id:'151',name:'Kalypso',price:4600,category:'DC',img:'./Assets/DC/Pop! Kalypso, , hi-res.png',stock:'20',description:' Descripcion de Kalypso'}
+{id:'152',name:'Lightning',price:4600,category:'DC',img:'./Assets/DC/Pop! Lightning, , hi-res.png',stock:'20',description:' Descripcion de Lightning'}
+{id:'153',name:'Martian Manhunter',price:4600,category:'DC',img:'./Assets/DC/Pop! Martian Manhunter, , hi-res.png',stock:'20',description:' Descripcion de Martian Manhunter'}
+{id:'154',name:'Mary',price:4600,category:'DC',img:'./Assets/DC/Pop! Mary, , hi-res.png',stock:'20',description:' Descripcion de Mary'}
+{id:'155',name:'Nightwing',price:4600,category:'DC',img:'./Assets/DC/Pop! Nightwing, , hi-res.png',stock:'20',description:' Descripcion de Nightwing'}
+{id:'156',name:'Peacemaker with Peace Sign',price:6220,category:'DC',img:'./Assets/DC/Pop! Peacemaker with Peace Sign, , hi-res.png',stock:'20',description:' Descripcion de Peacemaker with Peace Sign'}
+{id:'157',name:'Pedro',price:4600,category:'DC',img:'./Assets/DC/Pop! Pedro, , hi-res.png',stock:'20',description:' Descripcion de Pedro'}
+{id:'158',name:'Poison Ivy with Vines',price:6220,category:'DC',img:'./Assets/DC/Pop! Poison Ivy with Vines, , hi-res.png',stock:'20',description:' Descripcion de Poison Ivy with Vines'}
+{id:'159',name:'Red Hood',price:4600,category:'DC',img:'./Assets/DC/Pop! Red Hood, , hi-res.png',stock:'20',description:' Descripcion de Red Hood'}
+{id:'160',name:'Rides Super Deluxe Batman in Batwing',price:11600,category:'DC',img:'./Assets/DC/Pop! Rides Super Deluxe Batman in Batwing, , hi-res.png',stock:'20',description:' Descripcion de Rides Super Deluxe Batman in Batwing'}
+{id:'161',name:'Robin',price:4600,category:'DC',img:'./Assets/DC/Pop! Robin, , hi-res.png',stock:'20',description:' Descripcion de Robin'}
+{id:'162',name:'Savant',price:4600,category:'DC',img:'./Assets/DC/Pop! Savant, , hi-res.png',stock:'20',description:' Descripcion de Savant'}
+{id:'163',name:'Shazam! Fury of of the Gods',price:4600,category:'DC',img:'./Assets/DC/Pop! Shazam! Fury of of the Gods, , hi-res.png',stock:'20',description:' Descripcion de Shazam! Fury of of the Gods'}
+{id:'164',name:'Sinestro',price:4600,category:'DC',img:'./Assets/DC/Pop! Sinestro, , hi-res.png',stock:'20',description:' Descripcion de Sinestro'}
+{id:'165',name:'Superman Crouching',price:6220,category:'DC',img:'./Assets/DC/Pop! Superman Crouching, , hi-res.png',stock:'20',description:' Descripcion de Superman Crouching'}
+{id:'166',name:'Superman',price:4600,category:'DC',img:'./Assets/DC/Pop! Superman, , hi-res.png',stock:'20',description:' Descripcion de Superman'}
+{id:'167',name:'The Flash',price:4600,category:'DC',img:'./Assets/DC/Pop! The Flash, , hi-res.png',stock:'20',description:' Descripcion de The Flash'}
+{id:'168',name:'The Joker Batman 1989',price:7000,category:'DC',img:'./Assets/DC/Pop! The Joker Batman 1989, , hi-res.png',stock:'20',description:' Descripcion de The Joker Batman 1989'}
+{id:'169',name:'The Riddler',price:4600,category:'DC',img:'./Assets/DC/Pop! The Riddler, , hi-res.png',stock:'20',description:' Descripcion de The Riddler'}
+{id:'170',name:'Wonder Woman',price:4600,category:'DC',img:'./Assets/DC/Pop! Wonder Woman, , hi-res.png',stock:'20',description:' Descripcion de Wonder Woman'}
