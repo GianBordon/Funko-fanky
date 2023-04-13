@@ -6,9 +6,19 @@
   height: 40vmin;
   pointer-events: none;
 }
-
-button{
-  position: relative;
+a{
+  text-decoration: none;
+}
+a h3{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 3.45rem;
+  text-decoration: none;
+  color: black;
+}
+a.ActiveOption{
+  text-decoration: none;
+  color: black;
+    position: relative;
   padding: 10px 40px;
   margin: 0px 5px;
   border: none;
@@ -21,15 +31,26 @@ button{
   transition: .5s;
   border-radius: 10px;
 }
-button:hover{
+
+a.Option {
+  text-decoration: none;
+  color: black;
+  position: relative;
+  padding: 10px 40px;
+  margin: 10px 5px;
+  border: none;
+  outline: none;
+  background: #FEE1C7;
+  color: black;
+  font-size: 1.4rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  cursor: pointer;
+  transition: .5s;
+  border-radius: 10px;
+}
+a:hover{
   color: #F65170;
 }
-
-h3{
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 3.45rem;
-}
-
 img{
   width: 50px;
   margin-top: 20px;
@@ -44,6 +65,7 @@ nav{
   align-items: center;
   justify-content: space-around;
   background-color: #FA7E61;
+  padding: 60px 0px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
