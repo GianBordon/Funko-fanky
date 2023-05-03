@@ -9,6 +9,10 @@ export const CartProvider = ({children}) => {
 
     console.log(cart)
 
+    const isInCart = (id) =>{
+        return cart.some((item)=> item.id === id)
+    }
+
     const addItem = (item, quantity) => {
         if(!isInCart(item.id)) {
             setCart(prev => [...prev, {...item, quantity}])

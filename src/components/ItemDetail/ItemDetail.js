@@ -2,6 +2,7 @@ import './ItemDetail.css'
 import ItemCount from '../ItemCount/ItemCount'
 import {useState, useContext} from 'react'
 import {Link} from 'react-router-dom'
+import { CartContext } from '../../Context/CartContext'
 
 
 const ItemDetail = ({id, name, img, price, description, category, stock}) => {
@@ -46,7 +47,7 @@ const ItemDetail = ({id, name, img, price, description, category, stock}) => {
                 quantityAdded > 0 ? (
                     <Link to='/cart' className='Option'> Terminar compra </Link>
                 ) : (
-                    <ItemCount initial={1} stock={stock} HandleonAdd={handleOnAdd}/>
+                    <ItemCount initial={1} stock={stock} handleOnAdd={handleOnAdd}/>
                 )
             }
             </footer>
