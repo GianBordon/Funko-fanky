@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.carrito{
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    margin: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    padding: 50px 50px;
+}
+h1{
+    font-size: 1.8rem;
+}
+
+.Eliminar{
+    color: red;
+    position: relative;
+    padding: 10px 10px;
+    font-size: 20px;
+    border: none;
+    background-color: bisque;
+    cursor: pointer;
+}
