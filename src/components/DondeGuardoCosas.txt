@@ -162,3 +162,42 @@
 
 
 
+export const generarOrden = async (values, cart, totalCart, setOrderId, clearCart)
+    const orden = {
+        comprador: values,
+        item: cart,
+        total: totalCart()
+        fyh: Timestamp.fromDate(new Date())
+    }
+
+    const batch = writeBatch(db)
+    const orderRef = collection(db, 'orders')
+    const productosRef = collection(db, 'productos')
+
+    const q = query(productosRef, where(documentId(), 'in', cart.map((el) => el-id)))
+    const productos = await getDocs(q)
+    const outOfStock = []
+
+    productos.docs.forEach((doc) => {
+        const item = cart.find((el) => el.id === doc.id)
+
+        if (doc.data().stock >= item.quantity) {
+            batch.update(doc.ref, {
+                stock: doc.data().stock - item.quantity
+            })
+        } else {
+            outOfStock.push(item)
+        }
+    })
+
+    if (outOfStock.length === 0) {
+        addDoc(orderRef, orden)
+            .then((doc) => {
+                batch.commit()
+                setOrderId(doc.id)
+                clearCart()
+            })
+    } else {
+        alert ("hay items sin stock")
+    
+    }
