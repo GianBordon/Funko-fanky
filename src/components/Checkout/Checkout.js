@@ -69,7 +69,6 @@ const Checkout = () => {
             finally{
                 setLoading(false)
         }
-
     }
 
     if(loading){
