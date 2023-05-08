@@ -1,15 +1,15 @@
 import { useContext } from "react"
 import { CartContext } from "../../Context/CartContext"
-import { addDoc, collection, documentId, getDocs, query, writeBatch } from "firebase/firestore"
+import { addDoc, collection, documentId, getDocs, query, writeBatch, where, Timestamp} from "firebase/firestore"
 import db from '../../config/Firebase'
 import { useState } from "react"
-
+import CheckoutForm from '../CheckoutForm/CheckoutForm'
 
 const Checkout = () => {
     const [loading, setLoading] = useState(false)
     const[orderId, setOrderId] = useState('')
 
-    const (cart,total,clearCart) = useContext(CartContext)
+    const {cart,total,clearCart} = useContext(CartContext)
 
     const createOrder = async ({name, phone, email}) => {
         setLoading(true)
@@ -57,7 +57,7 @@ const Checkout = () => {
 
                 const orderAdd = await addDoc(orderRef, objOrder)
 
-                setOrderId(orderAdded.id)
+                setOrderId(orderAdd.id)
                 clearCart()
             } else {
                 console.error('Hay productos que estan fuera de stock')
@@ -71,7 +71,7 @@ const Checkout = () => {
         }
 
     }
-    
+
     if(loading){
         return <h1> Se esta generando tu orden...</h1>
     }
@@ -81,7 +81,7 @@ const Checkout = () => {
     return (
         <div>
             <h1>Checkout</h1>
-            <CheckoutForm onConfirm={createOrden}></CheckoutForm>
+            <CheckoutForm onConfirm={createOrder}></CheckoutForm>
         </div>
     )
 }

@@ -18,35 +18,38 @@ const CheckoutForm = ({onConfirm}) => {
 
     return(
         <div className='Container'>
-            <fomr onSubmit={handleConfirm} className='Form'>
+            <form onSubmit={handleConfirm} className='Form'>
                 <label className='Label'>
                     Nombre
-                    <imput 
+                    <input 
                         className='Input'
                         type='text'
                         value={name}
                         onChange={({target}) => setName(target.value)}
-                    ></imput>
+                    ></input>
                 </label>
                 <label className='Label'> 
                     Telefono
-                    <imput 
+                    <input 
                         className='Input'
                         type='text'
                         value={phone}
                         onChange={({target}) => setPhone(target.value)}
-                    ></imput>
+                    ></input>
                 </label>
                 <label className='Label'>
                     Email
-                    <imput 
+                    <input 
                         className='Input'
                         type='email'
                         value={email}
                         onChange={({target}) => setEmail(target.value)}
-                    ></imput>
+                    ></input>
                 </label>
-            </fomr>
+                <div className='Label'>
+                    <button type='submit' className='Button'>Crear Orden</button>
+                </div>
+            </form>
         </div>
     )
 }
