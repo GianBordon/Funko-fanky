@@ -31,8 +31,14 @@ const clearCart = () => {
     setCart([])
 }
 
+const total = () =>{
+
+    const resultado= cart.reduce((acc, el) => acc + el.price * el.quantity, 0)
+    return resultado
+    }
+    
 return(
-    <CartContext.Provider value={{cart, addItem, removeItem, clearCart}}>
+    <CartContext.Provider value={{cart, addItem, removeItem, clearCart, total}}>
         {children}
     </CartContext.Provider>
 )
